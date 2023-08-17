@@ -13,6 +13,16 @@ _class: intro-blue
 
 ### Presented by: Tommy Falgout
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H54XCCMNKG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H54XCCMNKG');
+</script>
+
 ---
 
 # Agenda

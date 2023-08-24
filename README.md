@@ -30,6 +30,7 @@ _class: intro-blue
 - What is 3D Printing?
 - Realities of 3D Printing
 - How does 3D Printing work?
+- Real world scenarios
 - My 3D Printer 
 - Demo Time!
 
@@ -138,7 +139,8 @@ _footer: STL = Standard Triangle/Tessellation Language
 # Slice - Create printer instructions
 
 - Types of instructions
-  - How hot the printer should be
+  - Print head temperature
+  - Print bed temperature
   - How fast to print
   - Where should the print head be at any moment
 - Apps
@@ -184,7 +186,8 @@ _footer: STL = Standard Triangle/Tessellation Language
 - Many of my friends have them (bounce ideas/support)
 - Most parts are 3D printed and [Open Sourced](https://www.printables.com/@Prusa3D/collections/54487)!
   - Inspired by [RepRap](http://reprap.org/)
-
+- In some cases, you can skip the slicing step
+ 
 ---
 
 <!--
@@ -210,3 +213,19 @@ _class: intro-blue
 - [OctoPi](https://octoprint.org/download/) - Manage your prints
 - [Spaghetti Detective](https://www.obico.io/the-spaghetti-detective.html) - Monitor your prints
 ![bg right:50% w:600](https://www.obico.io/wwwimg/expanding.png)
+
+---
+
+<!--
+_class: intro-blue
+-->
+
+# Q & A
+
+---
+
+<!--
+_class: intro-blue
+-->
+
+# Fin.  Et merci.
